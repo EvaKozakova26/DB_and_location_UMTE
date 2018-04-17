@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cz.uhk.fim.kozakev1.dbs_and_location.MainActivity">
+    <item
+        android:id="@+id/itemMap"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Mapa"
+        app:showAsAction="always" />
+</menu>

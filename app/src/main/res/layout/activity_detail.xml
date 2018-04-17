@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cz.uhk.fim.kozakev1.dbs_and_location.DetailActivity"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAZDAR" />
+
+    <TextView
+        android:id="@+id/txtLat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAZDAR" />
+    <TextView
+        android:id="@+id/txtLng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAZDAR" />
+
+</LinearLayout>
